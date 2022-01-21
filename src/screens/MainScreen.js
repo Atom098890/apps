@@ -27,7 +27,7 @@ export const MainScreen = ({ navigation }) => {
 MainScreen.navigationOptions = {
   headerTitle: "Зарплата.ру",
 };
-
+//это комментарий для проверки force
 const styles = StyleSheet.create({
   wrapper: {
     padding: 10,
