@@ -12,7 +12,7 @@ export const VacanciesScreen = ({ navigation }) => {
     <DetailVacancy header={header} description={description} title={title} />
   );
 };
-
+//Comment for test
 VacanciesScreen.navigationOptions = ({ navigation }) => {
   const header = navigation.getParam("header");
   const favorite = navigation.getParam("favorite");
