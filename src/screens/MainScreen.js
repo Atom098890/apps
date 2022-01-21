@@ -1,10 +1,10 @@
-import React from "react";
-import { View, StyleSheet } from "react-native";
+//import React from "react";
+//import { View, StyleSheet } from "react-native";
 
-import { Data } from "../data";
+//import { Data } from "../data";
 
-export const MainScreen = ({ navigation }) => {
-  const goTo = (vacancyСard) => {
+//export const MainScreen = ({ navigation }) => {
+  //const goTo = (vacancyСard) => {
     navigation.navigate("Vacancy", {
       header: vacancyСard.header,
       id: vacancyСard.id,
