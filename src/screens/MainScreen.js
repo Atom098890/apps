@@ -28,6 +28,7 @@ MainScreen.navigationOptions = {
   headerTitle: "Зарплата.ру",
 };
 //это комментарий для проверки force
+//теперь я стою на ветке Dorosh
 const styles = StyleSheet.create({
   wrapper: {
     padding: 10,
