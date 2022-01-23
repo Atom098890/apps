@@ -5,3 +5,5 @@ function sum(a, b){
 function sayHello{
  console.log("Hello")
 }
+
+sayHello();
